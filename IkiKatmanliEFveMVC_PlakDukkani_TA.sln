@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_UI_PlakDukkani_TA", "MV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Entities_TA", "EF_Entities_TA\EF_Entities_TA.csproj", "{988F829D-F816-4268-BAA0-E9E263C34F93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win_UI", "Win_UI\Win_UI.csproj", "{91E7ABD5-3D32-4A8A-80C1-0F5AA155C4DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{988F829D-F816-4268-BAA0-E9E263C34F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{988F829D-F816-4268-BAA0-E9E263C34F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{988F829D-F816-4268-BAA0-E9E263C34F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E7ABD5-3D32-4A8A-80C1-0F5AA155C4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E7ABD5-3D32-4A8A-80C1-0F5AA155C4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E7ABD5-3D32-4A8A-80C1-0F5AA155C4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E7ABD5-3D32-4A8A-80C1-0F5AA155C4DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

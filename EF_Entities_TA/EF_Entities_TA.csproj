@@ -13,11 +13,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Data\" />
-    <Folder Include="Model\" />
+    <PackageReference Include="ServiceStack.Interfaces" Version="6.4.0" />
   </ItemGroup>
 
 </Project>
